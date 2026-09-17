@@ -1,11 +1,11 @@
 class Potencias:
 
     @staticmethod
-    def calcular_cuadrado(numero: float) -> float:
+    def calcular_cuadrado(numero):
         return numero ** 2
 
     @staticmethod
-    def calcular_cubo(numero: float) -> float:
+    def calcular_cubo(numero):
         return numero ** 3
 
 
