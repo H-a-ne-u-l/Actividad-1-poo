@@ -1,15 +1,15 @@
 class Seguimiento:
 
     @staticmethod
-    def calcular_primera_suma(suma: float, x: float) -> float:
+    def calcular_primera_suma(suma, x)
         return suma + x
 
     @staticmethod
-    def calcular_nuevo_x(x: float, y: float) -> float:
+    def calcular_nuevo_x(x, y)
         return x + (y ** 2)
 
     @staticmethod
-    def calcular_suma_final(suma: float, x: float, y: float) -> float:
+    def calcular_suma_final(suma, x, y) -> float:
         return suma + (x / y)
 
 
