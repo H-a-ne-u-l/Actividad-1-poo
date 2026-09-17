@@ -1,11 +1,11 @@
 class Seguimiento:
 
     @staticmethod
-    def calcular_primera_suma(suma, x)
+    def calcular_primera_suma(suma, x):
         return suma + x
 
     @staticmethod
-    def calcular_nuevo_x(x, y)
+    def calcular_nuevo_x(x, y):
         return x + (y ** 2)
 
     @staticmethod
