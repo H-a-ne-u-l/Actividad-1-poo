@@ -10,8 +10,8 @@
 
 Este repositorio contiene la solución a los 5 ejercicios de la Actividad 1:
 
-* `ejercicio-1/`: Solución al primer ejercicio.
-* `ejercicio-2/`: Solución al segundo ejercicio.
-* `ejercicio-3/`: Solución al tercer ejercicio.
-* `ejercicio-4/`: Solución al cuarto ejercicio.
-* `ejercicio-5/`: Solución al quinto ejercicio.
+* `ejercicio-1/`: Solución al ejercicio #4.
+* `ejercicio-2/`: Solución al ejercicio #5.
+* `ejercicio-3/`: Solución al ejercicio #12.
+* `ejercicio-4/`: Solución al ejercicio #14.
+* `ejercicio-5/`: Solución al ejercicio #17.
